@@ -1,0 +1,49 @@
+# .NET & Visual Studio
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.vs/
+.vscode/
+*.dbmdl
+*.pdb
+*.cache
+*.log
+*.vspscc
+*.vssscc
+*.tmp
+*.bak
+*.swp
+*.psess
+*.vsp
+*.pidb
+*.svclog
+*.scc
+*.orig
+*.rej
+*.dll
+*.exe
+*.TestResults/
+TestResults/
+*.testsettings
+*.vsmdi
+*.db
+*.mdf
+*.ldf
+*.ndf
+*.sql
+*.sqlite
+*.sqlite3
+appsettings.Development.json
+appsettings.json
+launchSettings.json
+# OS
+.DS_Store
+Thumbs.db
+# Rider
+.idea/
+*.iml
+# Others
+.env

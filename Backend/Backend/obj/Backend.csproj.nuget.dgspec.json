@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CODE\\Final_PRN232\\PRN232-Backend\\Backend\\Backend\\Backend.csproj": {}
+    "E:\\Final_PRN232\\Backend\\PRN232-Backend\\Backend\\Backend\\Backend.csproj": {}
   },
   "projects": {
-    "D:\\CODE\\Final_PRN232\\PRN232-Backend\\Backend\\Backend\\Backend.csproj": {
+    "E:\\Final_PRN232\\Backend\\PRN232-Backend\\Backend\\Backend\\Backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODE\\Final_PRN232\\PRN232-Backend\\Backend\\Backend\\Backend.csproj",
+        "projectUniqueName": "E:\\Final_PRN232\\Backend\\PRN232-Backend\\Backend\\Backend\\Backend.csproj",
         "projectName": "Backend",
-        "projectPath": "D:\\CODE\\Final_PRN232\\PRN232-Backend\\Backend\\Backend\\Backend.csproj",
+        "projectPath": "E:\\Final_PRN232\\Backend\\PRN232-Backend\\Backend\\Backend\\Backend.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "D:\\CODE\\Final_PRN232\\PRN232-Backend\\Backend\\Backend\\obj\\",
+        "outputPath": "E:\\Final_PRN232\\Backend\\PRN232-Backend\\Backend\\Backend\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
